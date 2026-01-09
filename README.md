@@ -241,7 +241,7 @@ See [LICENSE](LICENSE) for details.
   title = {FractalTextGuard: AI Text Detection via Long-Range Dependence Analysis},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {[10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.18202981)},
   url = {https://github.com/IgorChechelnitsky/FractalTextGuard}
 }
 ```
