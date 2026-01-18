@@ -28,7 +28,7 @@ FractalTextGuard detects AI-generated text by analyzing **fractal patterns** in 
 ### Installation
 
 ```bash
-git clone https://github.com/IgorChechelnitsky/FractalTextGuard.git
+git clone https://github.com/muhomor2/FractalTextGuard.git
 cd FractalTextGuard
 # No dependencies needed - Python stdlib only!
 ```
